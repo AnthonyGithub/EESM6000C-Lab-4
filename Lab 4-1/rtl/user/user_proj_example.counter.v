@@ -81,7 +81,7 @@ module user_proj_example #(
     wire [3:0]  bram_we;
     wire        bram_en;
 
-    assign clk = wb_clk_i ;
+    assign clk = wb_clk_i;
     assign rst = wb_rst_i;
     
     always @(posedge clk) begin
