@@ -8,7 +8,7 @@ Lab 4-2
 * Challenged to optimize the performance by software/hardware co-design
 
 ## HackMD Report
-https://hackmd.io/@JokerAnthonio/rJghriMyle
+https://hackmd.io/@JokerAnthonio/B1Zi9ADJee
 
 ## Reference
 https://github.com/bol-edu/caravel-soc_fpga-lab/tree/main/lab-caravel_fir
